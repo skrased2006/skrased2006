@@ -2,17 +2,33 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Rased, Mern Stack developer from <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAACWCAMAAADABGUuAAAAclBMVEUAak70KkHnLkFaUknDN0RyTUiCR0eVQ0bsLEFBWUqjP0VuTUgdY03RM0MxXUuzO0UJZ006W0tiUUlkT0mQREbLNUNJV0pRVUrcMEPNNESbQkWoPkXXMUKdQUaKRkcfYkxUU0njLkKvPEW8OESASEc2XEum4f1TAAAC5ElEQVR4nO3diZKaQBAGYBpRUFFhVTDRrLJJ3v8VU+xRuhVueugZ+/+eYP5S5+g59DwAAAAAAAAAAAAAAABnXbN5uAs2J5/80ybYhfPsKt2kKWznu4gqBItlIt02g5LbW2XsT/759qTp09BvyP2ZPkylm8kvC1pzfzjOpJvKa/ajY/DS5kW6uXzSPsHfwy+lm8wj/tkzeOkcSzebwb69c6vi76UbPlayGhT8/YN3e6TbbgYnJ7q4PNDtm2Yw7SJ3u/r5qOClhXSEgQ6jkxMdpEMMMryDe7SSjjFAyJKc6Jd0kN4WTMnd+72P7+Hu1tJheskZkxNl0nF6iAvW6IVD9avfrMmJAulAnb0yJ3enq0vZkxM5Mp0/Goh+lA7VCee4dufCCBcPK0208R0o2wwpR3URSgdrdTWUnCLrB3eOlWo129ev8bi6TJPI8l8734Ltf5bPa04Go5+kwzXKDCYnsnpPhqcoVcfmgk1irpMrRRZvStyMJifKpQPW4ypF1rF4aB+zzdTFRjpgrdhwciJrJ7Mz49GtPWxibv7+5VU6Yp2d8ehv0hHrXIxHv0hHrJEYT05k6aRmO0H0rXTIassJolu6guHdaKtm6VTW/LBu7cC+nyC6pafpzOw9fDeXDllNcXTFX3jF3ZziwU3xlEbxRFbx8mWCRau1xTnFpQrFBSrFZUnzxWh7t9j1bkFo3nhSvN2oeJNZ8dECzQdKFB8j0nx4TPGRQcUHRc197PYfDzY2o7P/ULjmqwDe2kh0Fy6AaL72o/myl+Irfpovdmq+zsu8gnPpEjfvhrMb49od3xLuj3SU3vQ+06H5cRae4d36lWoNvQ8xed6L2ue3xj669le6+aPofWrPG/zAYuHyl/3LoGc1Vy4UZTpY9n1M9ejK8ryDvE/4Z3s/WO3DyaU0LFpzF4cn+qo/SvJzU3fvn3Pnx7MmDU/jSzdtCtds/fiHCIe1jj9EAAAAAAAAAAAAAAAAdf4BfTEw15MLJiIAAAAASUVORK5CYII=" width="13"/> <b>Khulna ,Bangladesh </p>
+<p>Welcome to my page! </br> I'm Rased, Mern Stack developer from <img src="https://i.ibb.co.com/1YBsXQvP/bangladesh-4628325-1280.jpg"/> <b>Khulna ,Bangladesh </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+<!-- React -->
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+<!-- HTML -->
+<img alt="HTML" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" />
 
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<!-- CSS -->
+<img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logoColor=white" />
+
+<!-- JavaScript -->
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+
+<!-- MongoDB -->
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+<!-- Tailwind CSS -->
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38b2ac?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+<!-- Express.js -->
+<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+
+<!-- Figma -->
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
 </p>
 <h3>Open source projects</h3>
 <table>
