@@ -51,8 +51,17 @@
 
 ---
 
-📊 GitHub Stats
-<div align="center"> <!-- GitHub Stats --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasedul-islam-dev&show_icons=true&theme=nightowl&hide_border=true&count_private=true" /> <!-- GitHub Streak --> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rasedul-islam-dev&theme=nightowl&hide_border=true" /> <!-- Top Languages --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasedul-islam-dev&layout=compact&theme=nightowl&hide_border=true&langs_count=8" /> </div>
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skrased2006&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+ 
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrased2006&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages" />
+
+</div>
 
 
 
