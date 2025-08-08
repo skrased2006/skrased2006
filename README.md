@@ -141,8 +141,12 @@ A complete hostel management system built using MERN Stack with user and admin d
 ### 🔹 Clone & Install
 
 ```bash
+
 git clone https://github.com/rasedul-islam/hostelease-client.git
 cd hostelease-client
 npm install
+
+
+
 
 
