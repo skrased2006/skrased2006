@@ -1,4 +1,5 @@
- <img src="https://i.ibb.co.com/67kLMPpV/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png" alt="Banner" style="max-width: 100%; height: auto;" />
+<!-- Banner Image -->
+<img src="https://i.ibb.co.com/67kLMPpV/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png" alt="Banner" style="max-width: 100%; height: auto;" />
 
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
@@ -12,16 +13,21 @@
 
 ---
 
-## 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: Full-stack projects with React + Node.js + MongoDB
-- 🌱 Learning: Advanced TypeScript, Redux Toolkit, Next.js, Testing (Jest/Cypress)
-- 🧠 Exploring: Design systems, Web accessibility (a11y), and Performance optimization
-- 🛠️ I use tools like: Firebase, Express.js, Tailwind CSS, Axios, Git, Figma
-- 🎯 Goal: Become a world-class software engineer & help others grow through tech
-- 💬 Ask me about: Web development, frontend animations, UI best practices
-- ✍️ Writing content soon on: Medium & Dev.to
-- ⚽ Fun fact: I'm a passionate football player too!
+- 💡 I’m an aspiring full-stack developer with a focus on React, Node.js, and MongoDB.
+- 🌱 Currently learning **Next.js**, **Redux Toolkit**, and advanced **React Animations**.
+- 💼 I’m building real-world projects to enhance my skills and prepare for remote/international roles.
+- ⚽ Football lover, coding enthusiast, and a productivity geek.
+
+---
+
+### 🚀 Current Activities
+
+- 🔭 I’m working on a **Hostel Management System** using the MERN stack.
+- 🧠 Exploring **JWT Authentication** and **Role-based Dashboards**.
+- 🛠 Practicing backend logic like **pagination**, **search**, and **filtering** in Express.js.
+- 📚 Preparing for remote developer interviews.
 
 ---
 
@@ -65,10 +71,9 @@
     <img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="www.linkedin.com/in/shaikh-rasedul-islam-284512377" target="_blank">
+  <a href="https://www.linkedin.com/in/shaikh-rasedul-islam-284512377" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
 
   <a href="mailto:sk2006rased@email.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white" />
@@ -84,4 +89,57 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!;Happy+Coding!&center=true&width=380&height=45" />
 </p>
+
+---
+
+# 📌 Pinned Project: HostelEase - Hostel Management System 🏠
+
+A complete hostel management system built using MERN Stack with user and admin dashboards, meal reviews, upcoming meals, and premium packages.
+
+🔗 **Live Site:** [https://hostelease-client.web.app](https://hostelease-client.web.app)
+
+🔗 **Client Repo:** [HostelEase Client](https://github.com/rasedul-islam/hostelease-client)  
+🔗 **Server Repo:** [HostelEase Server](https://github.com/rasedul-islam/hostelease-server)
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- Tailwind CSS
+- Firebase Auth
+- React Router DOM
+- Node.js + Express
+- MongoDB + Mongoose
+- JWT for authentication
+- Axios & SweetAlert2
+
+---
+
+## ⚙️ Features
+
+- 👨‍🎓 Student registration & login (Firebase)
+- 🥘 Meal management: Add, review, and filter meals
+- 📅 Upcoming meals with admin scheduling
+- 💰 Premium package upgrades with Stripe integration
+- 📊 Admin dashboard with data analytics
+- 🔒 Protected routes and JWT-based API calls
+
+---
+
+## 📸 Screenshot
+
+<img src='https://i.ibb.co.com/FLwGT1Cz/Whats-App-Image-2025-08-04-at-22-57-13-5fc542bf.jpg' />
+
+---
+
+## 🔧 How to Run Locally
+
+### 🔹 Clone & Install
+
+```bash
+git clone https://github.com/rasedul-islam/hostelease-client.git
+cd hostelease-client
+npm install
+
 
