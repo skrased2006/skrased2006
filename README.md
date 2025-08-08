@@ -51,16 +51,10 @@
 
 ---
 
-## 📈 My GitHub Stats
+📊 GitHub Stats
+<div align="center"> <!-- GitHub Stats --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasedul-islam-dev&show_icons=true&theme=nightowl&hide_border=true&count_private=true" /> <!-- GitHub Streak --> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rasedul-islam-dev&theme=nightowl&hide_border=true" /> <!-- Top Languages --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasedul-islam-dev&layout=compact&theme=nightowl&hide_border=true&langs_count=8" /> </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasedul-islam&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasedul-islam&theme=tokyonight" width="49%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasedul-islam&layout=compact&theme=tokyonight" width="60%" />
-</p>
 
 ---
 
